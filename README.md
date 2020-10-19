@@ -1,2 +1,2 @@
 # bukschbus
-A bus reservation system, to and fro New Site and Old Site BUK Campus
+A bus reservation system, to and from New Site and Old Site BUK Campus
